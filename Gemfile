@@ -13,6 +13,7 @@ gem 'high_voltage'
 gem 'pg'
 gem 'omniauth'
 gem 'omniauth-twitter'
+gem 'figaro'
 
 group :development, :test do
   gem 'byebug'
